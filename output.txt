@@ -1,0 +1,35 @@
+=== TASK 1: ADDRESS GENERATION ===
+
+=== LEGACY ADDRESS ===
+mjfo6WESsVYwsr3ZxrygwwKByTZ1eXxZyf
+
+=== BECH32 ADDRESS ===
+bcrt1q2zpjq9zhtmxxdn03psyfv8v25cvu24gtv9w46d
+
+=== BECH32M ADDRESS ===
+bcrt1pgu7gfj880nz0jdc507ez60es2x9vnyvkepwpj3qzfpklnczv9aesryfn8c
+
+=== WALLET INFO ===
+{
+  "walletname": "mywallet",
+  "walletversion": 169900,
+  "format": "sqlite",
+  "balance": 0.00000000,
+  "unconfirmed_balance": 0.00000000,
+  "immature_balance": 0.00000000,
+  "txcount": 101,
+  "keypoolsize": 3997,
+  "keypoolsize_hd_internal": 4000,
+  "paytxfee": 0.00000000,
+  "private_keys_enabled": true,
+  "avoid_reuse": false,
+  "scanning": false,
+  "descriptors": true,
+  "external_signer": false,
+  "blank": false,
+  "birthtime": 1772970295,
+  "lastprocessedblock": {
+    "hash": "0f9188f13cb7b2c71f2a335e3a4fc328bf5beb436012afca590b1a11466e2206",
+    "height": 0
+  }
+}
